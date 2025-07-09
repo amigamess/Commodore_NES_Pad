@@ -18,6 +18,16 @@ This is my PCB, you can order via PCBWAY.
 
 ![pcb](https://github.com/user-attachments/assets/497b510f-aaac-4276-b87a-ad5f9f68075a)
 
+U1=NE555 Only PHILIPS work into this cirtuit.
+
+R1-R2=10K
+
+C1-C2=100nF
+
+INLINE CABLE PIN OUT 1 to 9 like original C64 Joy Port Schematic
+
+For 3D BOX, contact me!
+
 
 ONLY FOR PERSONAL USE, NO COMMERCIAL USE!
 
