@@ -26,10 +26,6 @@ C1-C2=100nF
 
 INLINE CABLE PIN OUT 1 to 9 like original C64 Joy Port Schematic
 
-INLINE CABLE PIN OUT 1 to 9 like original C64 Joy Port Schematic
-
-
-
 Mini SWITCH
 ![buttons](https://github.com/user-attachments/assets/ba3c8c8d-bd2d-47fd-bc37-4d4de9f911fc)
 
