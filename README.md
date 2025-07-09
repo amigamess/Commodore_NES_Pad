@@ -26,6 +26,32 @@ C1-C2=100nF
 
 INLINE CABLE PIN OUT 1 to 9 like original C64 Joy Port Schematic
 
+INLINE CABLE PIN OUT 1 to 9 like original C64 Joy Port Schematic
+
+
+
+Mini SWITCH
+
+![buttons](https://github.com/user-attachments/assets/ba3c8c8d-bd2d-47fd-bc37-4d4de9f911fc)
+
+
+https://it.aliexpress.com/item/4001207529493.html
+
+PUSH BUTTONS 6X6X5
+
+![push](https://github.com/user-attachments/assets/5e4249b4-99ae-4bf1-986d-abc3814cc963)
+
+
+https://it.aliexpress.com/item/1005007043876325.html
+
+
+
+
+
+
+
+For 3D BOX, contact me!
+
 For 3D BOX, contact me!
 
 
