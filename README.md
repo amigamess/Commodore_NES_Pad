@@ -16,6 +16,9 @@ This is my PCB, you can order via PCBWAY.
 
 ![PCBNesPAD](https://github.com/user-attachments/assets/7ab0d6a4-e32f-49d2-abbd-120b9159cf05)
 
+![pcb](https://github.com/user-attachments/assets/497b510f-aaac-4276-b87a-ad5f9f68075a)
+
+
 ONLY FOR PERSONAL USE, NO COMMERCIAL USE!
 
 
