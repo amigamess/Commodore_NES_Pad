@@ -14,6 +14,9 @@ I make also an MSX adapter for use it into MSX (dual buttons).
 
 This is my PCB, you can order via PCBWAY.
 
+https://www.pcbway.com/project/shareproject/Commodore_64_NES_LIKE_PAD_Dual_Buttons_Autofire_fe1d262a.html
+
+
 ![PCBNesPAD](https://github.com/user-attachments/assets/7ab0d6a4-e32f-49d2-abbd-120b9159cf05)
 
 ![pcb](https://github.com/user-attachments/assets/497b510f-aaac-4276-b87a-ad5f9f68075a)
@@ -43,7 +46,7 @@ Joy Cable
 https://it.aliexpress.com/item/1005007941540327.html
 
 
-For 3D BOX, contact me!
+For 3D BOX and aother parts, contact me!
 
 
 
