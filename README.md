@@ -21,7 +21,7 @@ https://www.pcbway.com/project/shareproject/Commodore_64_NES_LIKE_PAD_Dual_Butto
 
 ![pcb](https://github.com/user-attachments/assets/497b510f-aaac-4276-b87a-ad5f9f68075a)
 
-U1=NE555 Only PHILIPS work into this cirtuit.
+U1=NE555 Only PHILIPS work into this circuit.
 
 R1-R2=10K
 
